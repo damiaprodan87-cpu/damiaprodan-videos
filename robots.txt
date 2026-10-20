@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://damiaprodan-media.vercel.app/sitemap.xml
